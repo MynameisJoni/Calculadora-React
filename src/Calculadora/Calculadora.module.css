@@ -1,0 +1,34 @@
+.tabla{
+    background: #535353;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 20%;
+}
+
+.resultado {
+    background: black;
+    border-radius: 10px;
+    height: 60px;
+    text-align: right;
+    color: #ff6767;
+    font-size: 40px;
+}
+
+.celda{
+    background: #ff6767;
+    border-radius: 10px;
+    height: 60px;
+    width: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.signo{
+    background: #ffe167;
+    border-radius: 10px;
+    height: 60px;
+    width: 10px;
+    text-align: center;
+    font-size: 30px;
+}
