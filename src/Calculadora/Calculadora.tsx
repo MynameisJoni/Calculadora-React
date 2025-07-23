@@ -2,7 +2,7 @@ import styles from "./Calculadora.module.css";
 import { Fragment, useState } from "react";
 
 const Calculadora = () => {
-	var [numero, setNumero] = useState("");
+	var [numero, setNumero] = useState(""); 
 	var [numero1, setNumero1] = useState("");
 	var [operacion, setOperacion] = useState("");
 
